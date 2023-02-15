@@ -1,0 +1,6 @@
+﻿  lab5.cpp
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab5\lab5\lab5.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab5\lab5\lab5.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab5\lab5\lab5.cpp(19,28): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab5\lab5\lab5.cpp(20,26): warning C4229: устаревший элемент: пропуск модификаторов для данных
+  lab5.vcxproj -> C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab5\x64\Debug\lab5.exe

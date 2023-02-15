@@ -1,0 +1,6 @@
+﻿  lab2.cpp
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab2\lab2\lab2.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab2\lab2\lab2.cpp(15,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab2\lab2\lab2.cpp(16,28): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab2\lab2\lab2.cpp(28,26): warning C4229: устаревший элемент: пропуск модификаторов для данных
+  lab2.vcxproj -> C:\Users\yurii\Documents\Visual Studio 2022\parallel\lab2\x64\Debug\lab2.exe
