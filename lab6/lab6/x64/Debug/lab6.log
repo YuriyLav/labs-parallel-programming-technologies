@@ -1,0 +1,6 @@
+﻿  lab6.cpp
+C:\Users\yurii\Documents\Visual Studio 2022\testirovanie\lab6\lab6\lab6.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\yurii\Documents\Visual Studio 2022\testirovanie\lab6\lab6\lab6.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yurii\Documents\Visual Studio 2022\testirovanie\lab6\lab6\lab6.cpp(20,28): warning C4229: устаревший элемент: пропуск модификаторов для данных
+C:\Users\yurii\Documents\Visual Studio 2022\testirovanie\lab6\lab6\lab6.cpp(21,26): warning C4229: устаревший элемент: пропуск модификаторов для данных
+  lab6.vcxproj -> C:\Users\yurii\Documents\Visual Studio 2022\testirovanie\lab6\x64\Debug\lab6.exe
