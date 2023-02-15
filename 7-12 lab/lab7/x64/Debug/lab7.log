@@ -1,0 +1,17 @@
+﻿  lab10.cpp
+C:\Users\yurii\Desktop\параллелка\7-12 lab\lab7\lab10.cpp(46,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab11.cpp
+C:\Users\yurii\Desktop\параллелка\7-12 lab\lab7\lab11.cpp(13,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yurii\Desktop\параллелка\7-12 lab\lab7\lab11.cpp(13,57): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yurii\Desktop\параллелка\7-12 lab\lab7\lab11.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab12.cpp
+  lab7.cpp
+  lab8.cpp
+  lab9.cpp
+  Создание кода...
+lab11.obj : error LNK2005: main уже определен в lab10.obj
+lab12.obj : error LNK2005: main уже определен в lab10.obj
+lab7.obj : error LNK2005: main уже определен в lab10.obj
+lab8.obj : error LNK2005: "void __cdecl star(int,int)" (?star@@YAXHH@Z) уже определен в lab7.obj
+lab8.obj : error LNK2005: main уже определен в lab10.obj
+C:\Users\yurii\Desktop\параллелка\7-12 lab\x64\Debug\lab7.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
